@@ -9,7 +9,7 @@ See https://github.com/jiahao/ijulia-notebooks for more polished notebooks.
   [LAWN 283](http://www.netlib.org/lapack/lawnspdf/lawn283.pdf)
   for computing the singular value decomposition.
 
-- **ECG model**
+- **ECG model**:
   Implements a model for simulating human electrocardiogram (ECG) signals by
   McSharry, Clifford, Tarassenko, and Smith (2003)
   ([doi:10.1109/TBME.2003.808805](http://dx.doi.org/10.1109/TBME.2003.808805))
@@ -19,5 +19,11 @@ See https://github.com/jiahao/ijulia-notebooks for more polished notebooks.
 - **Nuclear energy levels**:
   Models experimental energy levels of atomic nuclei using random matrix theory.
 
-- **SVD of signals**
+- **Randomized SVD**:
+  ~~Experimental implementations of randomized algorithms for the singular value
+  decomposition and assorted related linear algebra functions.~~ Now mostly
+  implemented in
+  [IterativeSolvers.jl#33](https://github.com/JuliaLang/IterativeSolvers.jl/issues/33)
+
+- **SVD of signals**:
   Looks at what the singular value decomposition can tell us about analyzing multiple time series.
