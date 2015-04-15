@@ -16,6 +16,9 @@ See https://github.com/jiahao/ijulia-notebooks for more polished notebooks.
   and compares the model with some real patient data from the
   [MIMIC II database](https://mimic.physionet.org/database.html)
 
+- **Hinton diagrams**:
+  A simple code for generating Hinton diagrams using Compose.jl.
+
 - **Nuclear energy levels**:
   Models experimental energy levels of atomic nuclei using random matrix theory.
 
