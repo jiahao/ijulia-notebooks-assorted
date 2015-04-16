@@ -17,7 +17,10 @@ See https://github.com/jiahao/ijulia-notebooks for more polished notebooks.
   [MIMIC II database](https://mimic.physionet.org/database.html)
 
 - **Hinton diagrams**:
-  A simple code for generating Hinton diagrams using Compose.jl.
+  A simple code for generating Hinton diagrams using [Compose.jl](https://github.com/dcjones/Compose.jl).
+
+- **Karaoke**:
+  Teach Julia to sing using [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl)
 
 - **Nuclear energy levels**:
   Models experimental energy levels of atomic nuclei using random matrix theory.
